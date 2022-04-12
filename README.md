@@ -18,8 +18,7 @@ Temporal Fork is a unity implementation of Temporal Anti Aliasing, much of it is
 
 ---
 
-_Temporal Fork was developed for the published first person puzzle game [Lightmatter](https://www
-.lightmattergame.com/)_
+_Temporal Fork was developed for the published first person puzzle game [Lightmatter](https://www.lightmattergame.com/), this technology is now released to the public under Apache License 2.0_
 
 ---
 
