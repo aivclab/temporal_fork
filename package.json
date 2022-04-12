@@ -3,7 +3,7 @@
   "displayName": "TemporalFork",
   "version": "0.0.1",
   "unity": "2018.1",
-  "description": "Temporal anti-aliasing solution"
+  "description": "Temporal anti-aliasing solution",
   "keywords": [
     "rl",
     "unity",
